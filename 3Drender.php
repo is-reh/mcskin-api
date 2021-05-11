@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>MCskin.EU</title>
+    <title>MCskin</title>
     <style>
         body, html {
             overflow-x: hidden;
@@ -43,7 +43,7 @@ z-index:10;"
 id="animate"
 type="checkbox">
 <a style="position: absolute; left: 2px; bottom: 2px; opacity: 0.5; font-size: 10px; text-decoration: none; z-index:10;" href="https://www.mcskin.eu" target="_blank" <?=$SiteAltOrTitle;?> >
-    <pre>MCskin.EU</pre>
+    <pre>MCskin</pre>
 </a>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/94/three.min.js"></script>
