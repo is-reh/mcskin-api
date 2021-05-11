@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-	<loc>https://mcskin.eu/</loc>
+	<loc>https://www.minecraft-skin-mcskin.herokuapp.com/</loc>
 	<lastmod>2021-04-26T01:35:29+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://mcskin.eu/username-to-uuid.php</loc>
+	<loc>https://www.minecraft-skin-mcskin.herokuapp.com/username-to-uuid.php</loc>
 	<lastmod>2021-04-26T01:35:30+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://mcskin.eu/api-docs.php</loc>
+	<loc>https://www.minecraft-skin-mcskin.herokuapp.com/api-docs.php</loc>
 	<lastmod>2021-04-26T01:35:32+01:00</lastmod>
 	<priority>1.0</priority>
 </url>
