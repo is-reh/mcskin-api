@@ -1,0 +1,40 @@
+{
+  "short_name": "MCskin.EU",
+  "name": "MCskin.EU - Minecraft Skins",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots" : [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "MCskin.EU - Minecraft Skins",
+      "short_name": "MCskin.EU",
+      "url": "index.php",
+      "icons": [
+        { "src": "favicon.png", "sizes": "512x512", "type": "image/png" }
+      ]
+    }
+  ],
+  "categories": ["mcskin", "minecraft", "games", "minecraft skin"],
+  "start_url": "/?start_url",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "url": "https://www.mcskin.eu/",
+  "manifestUrl": "manifest.json",
+  "lang": "en",
+  "description": "MCskin.EU - Minecraft Skins",
+  "scope": "/"
+}
